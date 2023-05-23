@@ -1,0 +1,1 @@
+In this assignment, I was tasked with creating a component called Person Card. This gave me practice using props. To make it fun, I used the the people in "Cloudy With a Chance of Meatballs" for my characters.
